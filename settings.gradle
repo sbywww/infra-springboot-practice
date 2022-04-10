@@ -1,0 +1,4 @@
+rootProject.name = 'infra-springboot-practice'
+include 'api'
+include 'web'
+
